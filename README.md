@@ -15,7 +15,7 @@ Here are some screenshots from the game:
 ## Gameplay Video
 To see the game in action, check out the gameplay video on YouTube:
 
-[Generative K/O Gameplay Video](video/2023-10-10 22-29-33.mp4)
+[Generate K/O Video](video/"2023-10-10 22-29-33.mp4")
 
 Please note that this video provides an overview of the game, but you won't be able to play it directly from this repository without the APK file.
 
