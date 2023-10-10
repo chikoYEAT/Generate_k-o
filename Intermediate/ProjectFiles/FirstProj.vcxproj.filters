@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstProj.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstProj.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstProjEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\FirstProj.png" />
+    <None Include="..\..\G.png" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <None Include="..\..\UpgradeLog2.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstProj">
+      <UniqueIdentifier>{02CDDE86-799A-31F5-A9DC-FAEB3FEBBE21}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstProj\FirstProj.Build.cs">
+      <Filter>Source\FirstProj</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstProj\FirstProj.cpp">
+      <Filter>Source\FirstProj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProj\FirstProj.h">
+      <Filter>Source\FirstProj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProj\MyCharacter.cpp">
+      <Filter>Source\FirstProj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProj\MyCharacter.h">
+      <Filter>Source\FirstProj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProj\MyPawn.cpp">
+      <Filter>Source\FirstProj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProj\MyPawn.h">
+      <Filter>Source\FirstProj</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
