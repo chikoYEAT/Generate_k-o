@@ -1,9 +1,9 @@
 # Generate K/O Game🕹️
 
-Welcome to the Generative K/O game repository! This repository contains the source code and assets for the game.
+Welcome to the Generate K/O game repository! This repository contains the source code and assets for the game.
 
 ## About the Game
-Generative K/O is a fun and exciting game built in Unreal Engine. Unfortunately, we haven't included the APK file for this game in this repository. However, we've provided a video and screenshots to give you a glimpse of the gameplay.
+Generate K/O is a fun and exciting game built in Unreal Engine. Unfortunately, we haven't included the APK file for this game in this repository. However, we've provided a video and screenshots to give you a glimpse of the gameplay.
 
 ## Screenshots📸
 Here are some screenshots from the game:
